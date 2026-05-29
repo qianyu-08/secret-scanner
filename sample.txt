@@ -1,0 +1,8 @@
+
+username=test
+
+api_key=sk-example12345678901234567890
+
+github_token=ghp_example123456789012345678
+
+aws_key=AKIAIOSFODNN7EXAMPLE
